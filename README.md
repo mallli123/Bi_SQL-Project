@@ -24,3 +24,7 @@ In this Project, I harnessed the power of SQL to extract valuable insights from 
 -Report Beautification
 
 ## Screenshots
+![Alt text]("C:\Users\perla\Downloads\power BI Image.png")
+![Alt text]("C:\Users\perla\Downloads\bi2.png")
+
+Overall, this project aims to empower business with the necessary tools and insights to monitor, evaluate, and enhance their sales data analysis, businesses can unlock new opportunities, drive growth, and stay competitive in the dynamic market.
